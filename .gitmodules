@@ -1,0 +1,12 @@
+[submodule "tiny_ml"]
+	path = ml
+	url = https://github.com/gzhang71/tiny_ml.git
+[submodule "tiny_rag"]
+	path = rag
+	url = https://github.com/gzhang71/tiny_rag.git
+[submodule "tiny_causal_inference"]
+	path = causal_inference
+	url = https://github.com/gzhang71/tiny_causal_inference.git
+[submodule "tiny_rl"]
+	path = rl
+	url = https://github.com/gzhang71/tiny_rl.git
